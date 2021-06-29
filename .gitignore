@@ -85,10 +85,11 @@ env.bak/
 venv.bak/ 
 backend/env
 backend/.idea
-my_site/db.sqlite3
-my_site/static
-my_site/static_dev
-my_site/media
+
+backend/my_site/db.sqlite3
+backend/my_site/static
+backend/my_site/static_dev
+backend/my_site/media
 
 # mkdocs documentation
 /site 
